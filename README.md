@@ -11,8 +11,6 @@ My name is Nick and I am software developer from Georgia (United States). Workin
 
 ## My GitHub Statistics 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnick-lgtm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/bnick-lgtm/bnick-lgtm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bnick-lgtm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nick's GitHub Stats" />
 </a>
